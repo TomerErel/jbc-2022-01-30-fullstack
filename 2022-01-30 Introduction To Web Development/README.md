@@ -33,13 +33,13 @@
 
 ## HTML
 
-1. <html> - every HTML has it
-2. <head> <body>
-3. <title> - appears in the browser tab
-4. <h1> - <h6> - headlines
-5. <hr> - horizontal line
-6. <br> - line break
-7. <p> - paragraph 
+1. `<html>` - every HTML has it
+2. `<head>` `<body>`
+3. `<title>` - appears in the browser tab
+4. `<h1>` - `<h6>` - headlines
+5. `<hr>` - horizontal line
+6. `<br>` - line break
+7. `<p>` - paragraph 
 
 
 ### Self closing tag
