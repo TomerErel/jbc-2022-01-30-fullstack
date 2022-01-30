@@ -22,3 +22,30 @@
   - port - default port is 80. the browser hides it
   - path - folder name or resource (catalog/music/bklabla)
   - query_string - data sent to the server
+
+10. HTTPS is the secure version of HTTP. Done with asymetric cryptography
+
+11. HTML - Hyper Text Markup Language - this is the structure and content
+12. CSS - Cascading Stylesheet add design to the HTML (to the website)
+13. JavaScript - Adds interactivity to the website
+
+
+
+## HTML
+
+1. <html> - every HTML has it
+2. <head> <body>
+3. <title> - appears in the browser tab
+4. <h1> - <h6> - headlines
+5. <hr> - horizontal line
+6. <br> - line break
+7. <p> - paragraph 
+
+
+### Self closing tag
+a tag without content
+
+### Indentation
+move 2 spaces or tab to format the code/text 
+
+
