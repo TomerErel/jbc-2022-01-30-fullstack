@@ -1,6 +1,6 @@
-# John Bryce - FullStack Course
+# John Bryce - Full Stack Course
 
-FullStack Course started at 30th of January 2022
+Full Stack Course started at 30th of January 2022
 
 ## 
 
