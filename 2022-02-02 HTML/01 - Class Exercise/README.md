@@ -3,7 +3,7 @@
 1. Write a definition to:
   - End User
   - Browser
-  - Front End
+  - Front End 
   - Back End
   - Full Stack
   - Client
